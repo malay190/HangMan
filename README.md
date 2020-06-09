@@ -3,8 +3,7 @@ Hangman is a classic word game in which you must guess as many secret words as y
 One has to guess the words within a given number of attempts. In this program, We are given nine attempts to guess the words.
 For the clue, the words are categorised into animals'name, places, colors, cricket players name. 
 
-
-
+## How Program looks while running
 ![banner](https://github.com/malay190/HangMan/blob/master/Screenshot.png)
 
 ## Running the program
